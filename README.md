@@ -7,3 +7,6 @@ Criei este repositório para compilar meus aprendizados com o básico de program
 * [Comparações e operadores lógicos](Python-comparacoes-operadores-logicos.ipynb): Aprenda a realizar comparações entre dois valores, o que vai resultar em um valor booleano, e então fazer operações com esses valores.
 
 * [Listas e tuplas](Python-listas-e-tuplas.ipynb): Tudo o que você precisa saber para começar o aprendizado sobre essas estruturas de dados que permitema armazenar informações de uma maneira agrupada ou sequencial em uma única variável.
+
+* [Estruturas condicional e de repetição](Python-estrutura-repeticao-condicional.ipynb): são estruturas usadas para controlar o fluxo de um programa, permitindo que diferentes blocos de código sejam executados com base no resultado da avaliação de uma ou mais expressões lógicas ou que sejam repetidos, sem precisar reescrevê-los.
+
