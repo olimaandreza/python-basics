@@ -10,3 +10,6 @@ Criei este repositório para compilar meus aprendizados com o básico de program
 
 * [Estruturas condicional e de repetição](Python-estrutura-repeticao-condicional.ipynb): são estruturas usadas para controlar o fluxo de um programa, permitindo que diferentes blocos de código sejam executados com base no resultado da avaliação de uma ou mais expressões lógicas ou que sejam repetidos, sem precisar reescrevê-los.
 
+* [Projeto](Projeto_Final_-_Logica_de_Programacao_II.ipynb): Uma proposta de projeto que possibilita a aplicação de conhecimentos adquiridos com variáveis, solicitação de valores ao usuário, operadores lógicos, listas, tuplas, dicionários, estruturas condicionais e de repetição, funções, tratamento de exceções.
+
+
