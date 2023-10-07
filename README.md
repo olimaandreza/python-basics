@@ -8,7 +8,7 @@ Criei este repositório para compilar meus aprendizados com o básico de program
 
 * [Listas e tuplas](Python-listas-e-tuplas.ipynb): Tudo o que você precisa saber para começar o aprendizado sobre essas estruturas de dados que permitem armazenar informações de uma maneira agrupada ou sequencial em uma única variável.
 
-* [Dicionários](Python-dicionarios.ipynb): Primeiros passos com estruturas de chave-valor em Python
+* [Dicionários](Python-dicionarios.ipynb): Primeiros passos com estruturas de chave-valor em Python.
 
 * [Estruturas condicional e de repetição](Python-estrutura-repeticao-condicional.ipynb): São estruturas usadas para controlar o fluxo de um programa, permitindo que diferentes blocos de código sejam executados com base no resultado da avaliação de uma ou mais expressões lógicas ou que sejam repetidos, sem precisar reescrevê-los.
 
