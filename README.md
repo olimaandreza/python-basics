@@ -1,4 +1,4 @@
-# python-basics
+# 📖 python-basics
 
 Criei este repositório para compilar meus aprendizados com o básico de programação em Python e compartilhar informações com quem está começando sua aventura com Python.
 
